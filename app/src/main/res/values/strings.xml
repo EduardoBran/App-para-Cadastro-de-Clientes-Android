@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cadastro De Clientes</string>
+    <string name="titulo">CADASTRO DE CLIENTE</string>
+    <string name="subtitulo">Informe seu login e senha para continuar</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="btn_acessar">Acessar</string>
+    <string name="matricula">Matricula</string>
+    <string name="nome">Nome</string>
+    <string name="btn_voltar">Voltar</string>
+</resources>
